@@ -3,21 +3,21 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/<YOUR GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml/badge.svg)](https://github.com/<YOURE GITHUB USER>/<YOUR REPO>/actions/workflows/lint.yaml)
+# Awesome Elden Ring Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/EanNewton/Awesome-Elden-Ring-Resources/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Elden-Ring-Resources/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+An awesome list of awesome resources for Elden Ring players by Elden Ring players!
 
 <!-- image -->
 
-<!-- <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a> -->
+<a href="" target="https://en.bandainamcoent.eu/elden-ring/elden-ring" rel="noopener noreferrer">
+  <img src="https://github.com/EanNewton/Awesome-Elden-Ring-Resources/blob/main/elden-ring-new-header.png" />
+</a>
 
 <!-- description -->
 
-A one line description of the product or tool. See [awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an example.
+A collection of resources, tools, lore, assets, and all kinds of other goodies created for Elden Ring players.
 
 </div>
 
@@ -53,4 +53,4 @@ Who else should we be following!?
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
+[Thanks goes to these contributors](https://github.com/Awesome-Elden-Ring-Resources/graphs/contributors)!
