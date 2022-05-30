@@ -42,6 +42,10 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 - [Elden Ring Stats](https://docs.google.com/spreadsheets/d/1jZokIy9PcX5UhUPcTe992aP21JiXL015sfP4sjYktu4/edit#gid=0) - Dump of NPC stats. 
 - [Internal Elden Ring](https://docs.google.com/spreadsheets/d/1WbUQSgJiZZNl5PefmUsvlhtNJ0PLhTfv-W9zRD1_fzM/htmlview) - Dump of all internal CNT names as a spreadsheet. 
 
+## Community
+
+- [Elden Ring Discord](https://discord.gg/eldenring) - Community run Discord to discuss all things Elden Ring.
+
 
 ## Lore
 
