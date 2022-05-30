@@ -11,7 +11,7 @@ An awesome list of awesome resources for Elden Ring players by Elden Ring player
 
 <!-- image -->
 
-<a href="" target="https://en.bandainamcoent.eu/elden-ring/elden-ring" rel="noopener noreferrer">
+<a href="https://en.bandainamcoent.eu/elden-ring/elden-ring" target="" rel="noopener noreferrer">
   <img src="https://github.com/EanNewton/Awesome-Elden-Ring-Resources/blob/main/elden-ring-new-header.png" />
 </a>
 
