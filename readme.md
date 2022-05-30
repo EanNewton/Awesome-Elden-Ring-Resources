@@ -55,6 +55,8 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 - [Binder Tool](https://github.com/Atvaark/BinderTool) - Dark Souls II / III / Bloodborne / Elden Ring bdt, bhd, bnd, dcx, tpf, fmg and param unpacking tool. By Atvaark.
 - [Elden Ring Progress Tracker](https://docs.google.com/spreadsheets/d/1_7sTNSle8kxB72eNgICAfdGoWMbe4tFycy2PNwJFTw8/edit?usp=sharing) - Interactive spreadsheet for tracking bosses and item acquisition. By EanNewton.
 - [ER.BDT.Tool](https://github.com/Ekey/ER.BDT.Tool) - Tool for extract BDT archives from game. By Ekey.
+- [Fextralife Interactive Map](https://eldenring.wiki.fextralife.com/Interactive+Map) - An interactive game map to find anything in game. By Fextralife community.
+- [Fextralife Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki) - Community run wiki for Elden Ring.
 - [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php) - Tool for previewing and converting between hundreds of model, image, and animation formats. By Rich Whitehouse.
 
 
