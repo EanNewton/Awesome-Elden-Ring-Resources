@@ -53,4 +53,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/Awesome-Elden-Ring-Resources/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/EanNewton/Awesome-Elden-Ring-Resources/graphs/contributors)!
