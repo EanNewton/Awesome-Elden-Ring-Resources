@@ -26,6 +26,7 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 ## Contents
 
 - [Assets & Internals](#assets--internals)
+- [Community](#community)
 - [Lore](#lore)
 - [Tools](#tools)
 - [YouTube](#youtube)
