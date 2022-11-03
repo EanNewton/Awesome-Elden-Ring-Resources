@@ -67,7 +67,7 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 
 ## YouTube
 
-- [BonfireVN](https://www.youtube.com/c/shinymous) - Closeup looks at models.
+- [BonfireVN](https://www.youtube.com/c/shinymous) - Closeup looks at models. By Shinymous.
 - [VaatiVidya](https://www.youtube.com/c/VaatiVidya) - Lore videos.
 - [What is The Flame of Frenzy?](https://www.youtube.com/watch?v=pblth0JJz-c) - Philosophy of The Frenzied Flame by Ratatoskr.
 - [Zullie the Witch](https://www.youtube.com/c/ZullietheWitch) - Lore videos.
