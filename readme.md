@@ -63,7 +63,8 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 - [Fextralife Interactive Map](https://eldenring.wiki.fextralife.com/Interactive+Map) - An interactive game map to find anything in game. By Fextralife community.
 - [Fextralife Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki) - Community run wiki for Elden Ring.
 - [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php) - Tool for previewing and converting between hundreds of model, image, and animation formats. By Rich Whitehouse.
-
+- [.sl2 Save Watcher](https://github.com/tvhdev/er-save-watcher) - A little Windows tool that watches your Elden Ring save file while you play and restores your last good checkpoint after death automatically. No more running, more boss bashing.
+- [EldenRing Save Manager](https://github.com/Ariescyn/EldenRing-Save-Manager) - a Python save game editor
 
 ## YouTube
 
