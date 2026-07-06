@@ -52,6 +52,7 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 
 - [Carian Archive](https://github.com/AsteriskAmpersand/Carian-Archive) - A String Dump of Elden Ring.
 - [Elden Ring Lore Database](https://valeriolp.notion.site/Elden-Ring-Lore-Database-36b35438aeba4328bccd3466d8229517) - Tagged database with all items and their lore descriptions in English and Italian. By Valerio.
+- [nexplained](https://nexplained.com/games/elden-ring/) - In-depth Elden Ring lore explainers and unsolved-mystery breakdowns, with an interactive lore timeline and a relationship graph.
 - [Ofnir Library](https://docs.google.com/document/u/1/d/e/2PACX-1vQ-m63lmzRR9N_LwUNmmUZx1eSp2yYst1lJlkYDpHx5Uey5S4_JcBKz8Ln02-jOmuif3_C0LbSczd74/pub) - Dump of lore descriptor text. By Gideon Ofnir, OJ enjoyer.
 
 
