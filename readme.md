@@ -63,6 +63,7 @@ A collection of resources, tools, lore, assets, and all kinds of other goodies c
 - [Fextralife Interactive Map](https://eldenring.wiki.fextralife.com/Interactive+Map) - An interactive game map to find anything in game. By Fextralife community.
 - [Fextralife Wiki](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki) - Community run wiki for Elden Ring.
 - [Noesis](https://richwhitehouse.com/index.php?content=inc_projects.php) - Tool for previewing and converting between hundreds of model, image, and animation formats. By Rich Whitehouse.
+- [Gideon's Ledger](https://github.com/ColoradoClimbr/gideons-ledger) - Open-source offline trainer: runes, add any item, max HP/FP, no equip weight, smart drops and a progress reader. By ColoradoClimbr.
 
 
 ## YouTube
